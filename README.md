@@ -56,11 +56,11 @@ endmodule
 ```
 
 ## RTL LOGIC FOR SISO Shift Register:
-![325092292-a62f258e-ff42-44bc-bca9-779c7d01da74](https://github.com/MADHUVATHANI/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149986415/81628d79-021a-4102-bb29-ec614185d9e0)
+![325267955-c8ee160b-0e98-4ef3-9f1e-ecc1fa089f01](https://github.com/MADHUVATHANI/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149986415/3b8d5a9b-8a0a-4436-a3bc-41d5922d0885)
 
 
 ## TIMING DIGRAMS FOR SISO Shift Register:
-![325092312-65c3033a-0c9e-43ce-9ede-81728ce9a953](https://github.com/MADHUVATHANI/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149986415/887c5f11-1a36-477b-b651-4a6d83e95319)
+![325268125-84df2e71-7d10-49a5-957c-9b5bf5c43c64](https://github.com/MADHUVATHANI/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149986415/4db0b9a9-aef3-4b4d-85b7-ab588c2dc5fb)
 
 ## RESULTS:
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
